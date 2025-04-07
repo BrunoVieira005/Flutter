@@ -1,0 +1,2 @@
+C:/Users/Bruno/Desktop/Study/SENAI/Flutter/app_monitoramento_sensores/android/app/.cxx/Debug/363h1j5e/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Bruno/Desktop/Study/SENAI/Flutter/app_monitoramento_sensores/android/app/.cxx/Debug/363h1j5e/x86_64/CMakeFiles/rebuild_cache.dir

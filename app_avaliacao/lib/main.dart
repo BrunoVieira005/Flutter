@@ -4,8 +4,14 @@ void main() {
   runApp(const MyApp());
 }
 
-class MyA|App extends StatelessWidget {
+class MyApp extends StatelessWidget {
   const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    throw UnimplementedError();
+  }
 }
 
 class MyHomePage extends StatefulWidget {
@@ -16,22 +22,15 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
- 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-      ),
+      appBar: AppBar(),
       body: Center(
-        
         child: Column(
-          
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text(
-              ''
-            ),
+            const Text(''),
             Text(
               '',
             ),

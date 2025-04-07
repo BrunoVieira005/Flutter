@@ -99,7 +99,7 @@ class ColetaDadosScreen extends StatelessWidget {
 
 class SensorCard extends StatelessWidget {
   final SensorData sensor;
-  SensorCard({super.key, required this.sensor});
+  const SensorCard({super.key, required this.sensor});
 
   @override
   Widget build(BuildContext context) {
