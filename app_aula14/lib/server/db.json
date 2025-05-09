@@ -1,0 +1,114 @@
+{
+  "produtos": [
+    {
+      "id": "0",
+      "nome": "Chocolate",
+      "valor": "5.50",
+      "qtde": "3"
+    },
+    {
+      "id": "2",
+      "nome": "Picanha",
+      "valor": "120",
+      "qtde": "5"
+    },
+    {
+      "id": "af44",
+      "nome": "iphone",
+      "valor": "6000",
+      "qtde": "8"
+    },
+    {
+      "id": "0e5e",
+      "nome": "Chocotrio",
+      "valor": "8.00",
+      "qtde": "3"
+    },
+    {
+      "id": "04a0",
+      "nome": "Danete",
+      "valor": "10.90",
+      "qtde": "12"
+    },
+    {
+      "id": "b9cb",
+      "nome": "mouse",
+      "valor": "50",
+      "qtde": "3"
+    },
+    {
+      "id": "PS5",
+      "nome": "PS5",
+      "valor": "3500",
+      "qtde": "5"
+    },
+    {
+      "id": "Nintendo switch",
+      "nome": "Nintendo switch",
+      "valor": "2500",
+      "qtde": "7"
+    },
+    {
+      "id": "Iphone 15",
+      "nome": "Iphone 15",
+      "valor": "8500",
+      "qtde": "6"
+    },
+    {
+      "id": "Xbox Series x",
+      "nome": "Xbox Series x",
+      "valor": "2800",
+      "qtde": "5"
+    },
+    {
+      "id": "controle",
+      "nome": "controle",
+      "valor": "300",
+      "qtde": "5"
+    },
+    {
+      "id": "Impressora 3d",
+      "nome": "Impressora 3d",
+      "valor": "3800",
+      "qtde": "2"
+    },
+    {
+      "id": "",
+      "nome": "",
+      "valorProd": "",
+      "qtd": ""
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "dan",
+      "login": "dan",
+      "senha": "2024"
+    },
+    {
+      "id": "filipe",
+      "login": "filipe",
+      "senha": "1408"
+    },
+    {
+      "id": "senaimobile",
+      "login": "senaimobile",
+      "senha": "2024"
+    },
+    {
+      "id": "admin",
+      "login": "admin",
+      "senha": "1234"
+    },
+    {
+      "id": "isa",
+      "login": "isa",
+      "senha": "123"
+    },
+    {
+      "id": "isa",
+      "login": "isa",
+      "senha": "123"
+    }
+  ]
+}
